@@ -14,3 +14,16 @@ With this piece of code I could learn some concepts like:
 - Result enum 
 - Rng
 - Ordering
+
+
+## Want to try it? 
+
+- Clone repo 
+- Install [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
+- Run the following commands: 
+```
+$ cargo build 
+$ cargo run
+```
+
+Enjoy.
